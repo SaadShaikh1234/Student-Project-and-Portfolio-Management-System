@@ -1,5 +1,4 @@
 # Student-Project-and-Portfolio-Management-System
-# Student Project and Portfolio Management System
 
 ## 📌 Project Overview
 
