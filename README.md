@@ -130,11 +130,18 @@ spring.datasource.password=your_password
 
 ### 5️⃣ Run the Project
 
-* Run the main Spring Boot application
+* Open a terminal in the project root directory
+
+* Run the Spring Boot application using:
+
+```
+mvn spring-boot:run
+```
+
 * Access the app at:
 
 ```
-http://localhost:8080/
+http://localhost:1797/
 ```
 
 ---
