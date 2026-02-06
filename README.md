@@ -92,11 +92,11 @@ The application supports three types of users:
 
 ## 🔑 Sample Demo Credentials
 
-| Role    | Username / Email                                | Password   |
-| ------- | ----------------------------------------------- | ---------- |
-| Admin   | admin                                           | admin123   |
-| Faculty | [faculty@klu.edu.in](mailto:faculty@klu.edu.in) | faculty123 |
-| Student | [rahul@klu.edu.in](mailto:rahul@klu.edu.in)     | rahul123   |
+| Role    | Username / Email                                                | Password   |
+| ------- | --------------------------------------------------------------- | ---------- |
+| Admin   | admin                                                           | admin123   |
+| Faculty | [dipanjan.biswas@klu.edu.in](mailto:dipanjan.biswas@klu.edu.in) | faculty123 |
+| Student | [kiran.dunka@klu.edu.in](mailto:kiran.dunka@klu.edu.in)         | kiran123   |
 
 ---
 
